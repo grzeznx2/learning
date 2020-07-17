@@ -3,5 +3,6 @@ body {
 }
 
 h1 {
-    color: fuchsia
+    color: fuchsia;
+    font-size: 6rem;
 }
